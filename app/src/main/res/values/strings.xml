@@ -46,4 +46,13 @@
     <string name="viewbtn2">Delete</string>
 
 
+    <string name="name">Name</string>
+    <string name="adline1">Address Line 1</string>
+    <string name="adline2">Address Line 2</string>
+    <string name="pcode">Postale Code</string>
+    <string name="cno">Contact Number</string>
+    <string name="email">Email</string>
+    <string name="omsg">Optional Message</string>
+
+
 </resources>
