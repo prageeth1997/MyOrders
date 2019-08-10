@@ -10,4 +10,8 @@
     <color name="btnclr2">#FFDF1A0C</color>
     <color name="linkColor">#FF051EC0</color>
     <color name="statusAndAdminote">#FF3F7A04</color>
+
+    <color name="dcolorPrimary">#1b41d8</color>
+    <color name="dcolorPrimaryDark">#1b41d8</color>
+    <color name="dcolorAccent">#1b41d8</color>
 </resources>
