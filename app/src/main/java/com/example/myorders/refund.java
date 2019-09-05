@@ -2,10 +2,12 @@ package com.example.myorders;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.RadioButton;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class refund extends AppCompatActivity {
 
@@ -34,4 +36,15 @@ public class refund extends AppCompatActivity {
         rdbtn2.setChecked(false);
 
     }
+
+    public void Refund(View view) {
+
+        Intent intent2 = new Intent( refund.this , MainActivity.class);
+        Toast.makeText(this, "Request Sent Successfully", Toast.LENGTH_SHORT).show();
+        startActivity(intent2);
+    }
+
+
+
 }
+

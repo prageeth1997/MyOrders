@@ -226,6 +226,7 @@
             android:layout_gravity="right"
             android:layout_marginBottom="16dp"
             android:background="@android:color/holo_orange_light"
+            android:onClick="Refund"
             android:text="@string/rUpdtbtn1" />
 
     </LinearLayout>
